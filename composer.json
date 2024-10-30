@@ -1,0 +1,18 @@
+{
+  "name": "vanwilderenict/hotelroomscanner",
+  "license": "GPL 3",
+  "authors": [
+    {
+      "name": "Petervw",
+      "email": "peter@codebrothers.nl"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "core/",
+      "admin/",
+      "frontend/"
+    ]
+  }
+}
